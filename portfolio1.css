@@ -104,7 +104,7 @@
 }
 .card-back
 {
-    background-image: url("SHImg.jpg");
+    background-image: url(SHImg.jpg);
     background-position: center;
     background-size: cover;
 
