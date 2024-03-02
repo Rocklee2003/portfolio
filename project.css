@@ -1,0 +1,42 @@
+.project1{
+    
+    background-color: #333;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content:space-around;
+}
+
+img
+{
+    height: 500px;
+    width:450px;
+    justify-content: space-around;
+}
+
+pre {
+    white-space: pre-wrap;
+    font-family: 'Courier New', monospace;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color:black;
+    text-align: left;
+}
+
+.brief p
+{
+    color:white;
+    font-size: larger;
+}
+
+.brief a
+{
+    text-decoration: none;
+    color: goldenrod;
+}
+
