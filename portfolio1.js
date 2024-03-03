@@ -35,7 +35,7 @@ function openNewTab8() {
         }function nmap() {
             // Replace 'https://example.com' with the URL you want to open
             window.open('https://drive.google.com/file/d/1gm6-qTiVu5Z7TaPuKNyGp3fJCsvrCX7G/view?usp=drive_link', '_blank');
-        }function Metasploit() {
+        }function metasploit() {
             // Replace 'https://example.com' with the URL you want to open
             window.open('https://academy.hackthebox.com/achievement/1101055/39', '_blank');
         }
