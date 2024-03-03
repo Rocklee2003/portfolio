@@ -49,7 +49,7 @@ function python() {
     window.open('https://drive.google.com/file/d/1btmYcICS-1yoYc8hwJnSIdnxajyIDAVw/view?usp=drive_link', '_blank');
   }  
 
-  function watch() {
+  function Lvideo() {
     // Replace 'https://example.com' with the URL you want to open
     window.open('https://www.linkedin.com/posts/utkarsh-ahirrao-794826259_webdesign-webdevelopment-websitelaunch-activity-7121845449979813888-Z8jM?utm_source=share&utm_medium=member_desktop', '_blank');
 }
